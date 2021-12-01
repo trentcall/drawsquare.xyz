@@ -1,0 +1,91 @@
+/*JUITTER PLUGIN CSS*/
+
+#juitterContainer
+{
+	width: 270px;
+	height: 275px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 26px;
+	right: 0px;
+	margin: auto;
+	padding: px;
+} /*Juitter container*/
+
+#juitterContainer .twittList
+{} /* UL that will contain the list of tweets */
+
+/* Bellow the list of tweets "<li>" */
+
+#juitterContainer .twittLI
+{
+	list-style:none;
+	border-bottom:dashed 1px #80c061;
+	padding:5px;clear:both;
+	height: px;
+	width: 225px;
+	color: #300000;
+} 
+#juitterContainer .twittList SPAN.time
+{
+	color:#900090;
+}
+#juitterContainer .twittList A
+{
+	color:#666	;
+} /*Links inside the tweets list */
+
+/* Bellow the CSS for the avatar image  */
+
+#juitterContainer .juitterAvatar
+{
+	float:left;
+	border:solid 1px #D3EECA;
+	background:#ff00ff;
+	margin-right:5px;
+	padding:2px;
+	width:48px;
+	height:48px;
+}
+
+#juitterContainer .jRM
+{
+	float:right;
+	clear:both;
+} /*read it on twitter link*/
+
+#juitterContainer .extLink
+{} /*CSS for the external links*/
+
+#juitterContainer .hashLink
+{} /*CSS for the hash links*/
+
+/*end of Juitter CSS*/
+
+
+#picklejar
+{
+	background-color: #fff;
+	background-image: url('pickletweet/image/pickle.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.picklefont
+{
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 12px;
+	font-size:12px;
+	left top repeat-x;
+}
+.picklefont a
+{
+	margin:0;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 12px;
+	font-size:12px;
+	left top repeat-x;
+}

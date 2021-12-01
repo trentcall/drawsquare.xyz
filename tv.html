@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>fifteen</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body class="fifteen">
+
+
+
+
+<div class="nav pink">
+<h2><a href="phone.html"><b>&lt;</b></a></h2>
+<br>
+<h2><a href="index.html"><b>\</b></a></h2>
+<br>
+<h2><a href="ten.html"><b>&gt;</b></a></h2>
+</div>
+
+<img src="img/tv4_tv.gif" class="center">
+<img src="img/tv.png" class="center">
+
+
+<!---<div class="container face">
+<pre>
+<?php
+
+
+
+//var_dump($_GET);
+
+//echo '<hr>';
+
+$var = array(
+	'tv',
+);
+
+$folders = array(1,2,3,4,5,);
+
+//var_dump($var);
+
+$channel = $_GET['channel'];
+foreach($var as $part){
+	if(!$_GET[$part]){
+		$_GET[$part] = 1;
+	}
+}
+foreach($var as $part){
+	if(!$_GET[$part]){
+		$_GET[$part] = 1;
+	}
+	echo '<br>'.$part.'<br>'."";
+	foreach($folders as $key){
+		echo '<a href="?';
+		foreach($var as $prop){
+			if($prop == $part){
+				echo $prop.'='.$key.'&';
+			}else{
+				echo $prop.'='.$_GET[$prop].'&';
+			}
+		}
+		echo '">'.$key.'</a>'."";
+	}
+}
+
+echo '<hr>';
+foreach($var as $key){
+	echo '<img src="channel/'.$_GET[$key].'/'.$key.'.gif" class="container"><br>';
+}
+
+?>
+</pre>
+---	!>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6608161-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

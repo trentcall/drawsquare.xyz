@@ -1,0 +1,91 @@
+<manifest alg="1">
+  <folder name="image">
+    <file name="1.png" crc="4167507074"/>
+    <file name="4.png" crc="381904716"/>
+    <file name="12.png" crc="47176116"/>
+    <file name="2.png" crc="168113620"/>
+    <file name="3.png" crc="210624520"/>
+    <file name="5.png" crc="325050012"/>
+    <file name="6.png" crc="3821037807"/>
+    <file name="7.png" crc="4279471272"/>
+    <file name="8.png" crc="4082145030"/>
+    <file name="9.png" crc="126516968"/>
+    <file name="10.png" crc="4281843465"/>
+    <file name="11.png" crc="3790819775"/>
+    <file name="loading.gif" crc="3815509949"/>
+    <file name="13.png" crc="512693945"/>
+    <file name="22.png" crc="113617599"/>
+    <file name="32.png" crc="486919214"/>
+    <file name="42.png" crc="4158819237"/>
+    <file name="52.png" crc="35668975"/>
+    <file name="62.png" crc="39166607"/>
+    <file name="72.png" crc="438286281"/>
+    <file name="82.png" crc="414073430"/>
+    <file name="92.png" crc="4197469277"/>
+    <file name="102.png" crc="4285918897"/>
+    <file name="112.png" crc="4155435500"/>
+    <file name="122.png" crc="3803618853"/>
+    <file name="132.png" crc="73423449"/>
+    <file name="14.png" crc="12161376"/>
+    <file name="15.png" crc="4073733472"/>
+    <file name="16.png" crc="400288680"/>
+    <file name="17.png" crc="3867822525"/>
+    <file name="18.png" crc="3762470941"/>
+    <file name="19.png" crc="4130288828"/>
+    <file name="20.png" crc="3883609389"/>
+    <file name="21.png" crc="481979484"/>
+    <file name="222.png" crc="4104589843"/>
+    <file name="53.png" crc="3811367509"/>
+    <file name="110.png" crc="260878587"/>
+    <file name="23.png" crc="3763130202"/>
+    <file name="33.png" crc="4040527432"/>
+    <file name="43.png" crc="3907709047"/>
+    <file name="63.png" crc="424728589"/>
+    <file name="73.png" crc="58145160"/>
+    <file name="83.png" crc="178585710"/>
+    <file name="93.png" crc="346470747"/>
+    <file name="103.png" crc="218225248"/>
+    <file name="123.png" crc="150582677"/>
+    <file name="133.png" crc="4283185260"/>
+    <file name="142.png" crc="311220487"/>
+    <file name="152.png" crc="4083132760"/>
+    <file name="162.png" crc="219577374"/>
+    <file name="24.png" crc="389869119"/>
+    <file name="111.png" crc="4240852862"/>
+    <file name="34.png" crc="410725659"/>
+    <file name="44.png" crc="174522367"/>
+    <file name="54.png" crc="437416211"/>
+    <file name="64.png" crc="4031275765"/>
+    <file name="74.png" crc="4209379481"/>
+    <file name="84.png" crc="250467584"/>
+    <file name="94.png" crc="422146116"/>
+    <file name="104.png" crc="3839570479"/>
+    <file name="113.png" crc="3833759711"/>
+    <file name="124.png" crc="3948237308"/>
+    <file name="134.png" crc="3835671495"/>
+    <file name="143.png" crc="320049212"/>
+    <file name="153.png" crc="198094386"/>
+    <file name="163.png" crc="165716513"/>
+    <file name="172.png" crc="4224597307"/>
+    <file name="182.png" crc="354940848"/>
+    <file name="192.png" crc="194045741"/>
+    <file name="202.png" crc="437606785"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486"/>
+      <file name="sprydomutils.js" crc="119034094"/>
+      <file name="museutils.js" crc="406002062"/>
+      <file name="pie.js" crc="942815"/>
+      <file name="musesprycommon.js" crc="198772139"/>
+      <file name="musesprypanels.js" crc="4026774065"/>
+      <file name="musespryslideshow.js" crc="470082698"/>
+      <file name="jquery.museoverlay.js" crc="110877409"/>
+    </folder>
+  </folder>
+  <folder name="css">
+    <file name="index.css" crc="104080641"/>
+    <file name="site_global.css" crc="3761866101"/>
+  </folder>
+  <file name="index.html" crc="4171209293"/>
+</manifest>
