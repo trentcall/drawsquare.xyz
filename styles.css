@@ -56,7 +56,7 @@ div.scrollhr
 
 body
 {
-	background-color: #;
+	background-color: #000;
 	font-size: 9px;
 	line-height: 18px;
 	text-align: justify;
@@ -67,7 +67,6 @@ body
 }
 body:hover
 {
-	background-color: #;
 }
 .about
 {
@@ -75,7 +74,6 @@ body:hover
 	position: fixed;
 	left: 30px;
 	bottom: 0px;
-	background-color: #;
 	margin: 0px;
 	padding: 0px;
 	font-family: arial;
@@ -97,7 +95,6 @@ background-color:yellow;
 h1
 {
 	color: #009999;
-	background-color: #;
 	margin: 0px;
 	padding: 5px;
 	width: 0px;
@@ -112,7 +109,6 @@ h1
 h3.about
 {
 	color: #333;
-	background-color: #;
 	margin: 50px;
 	padding: 0px;
 	width: 450px;
@@ -126,7 +122,6 @@ h3.about
 h4.aboutburger
 {
 	color: #333;
-	background-color: #;
 	margin: 50px;
 	padding: 0px;
 	width: 450px;
@@ -153,7 +148,6 @@ h4.aboutburger
 	left: 30px;
 	top: 300px;
 	color: #000;
-	background-color: #;
 	margin: 0px;
 	padding: 0px;
 	width: 22px;
@@ -405,7 +399,6 @@ div.desc
 	left: 20px;
 	top: 150px;
 	color: #000;
-	background-color: #;
 	margin: 0px;
 	padding: 5px;
 	width: 50px;
@@ -721,311 +714,7 @@ img.twohundred
 	margin: 100px;
 	margin-right: 50px;
 	margin-left: 50px;
-	background-image: url('');
-	vertical-align: top:
-}
-
-
-
-
-																					/*///////// BIG MAC //////////////*/
-
-
-
-.bigmac_1
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_1:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_2
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_2:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_3
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_3:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_4
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_4:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_5
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_5:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_6
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_6:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_7
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_7:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_8
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_8:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_9
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_9:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_10
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_10:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_11
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_11:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_12
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_12:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_13
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_13:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_14
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_14:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_15
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_15:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-.bigmac_16
-{
-	background-image: url('16/big_mac.jpg');
-}
-.bigmac_16:hover
-{
-	background-image: url('16/big_mac_down.jpg');
-}
-
-
-																					/*///////// PICKLE //////////////*/
-
-
-
-/*JUITTER PLUGIN CSS*/
-
-#juitterContainer {
-    bottom: 0;
-    height: 185px;
-    left: 26px;
-    margin: auto;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 310px;
-}
-#juitterContainer .twittList {
-}
-#juitterContainer .twittLI {
-    border-bottom: 1px dashed #80C061;
-    clear: both;
-    color: #300000;
-    list-style: none outside none;
-    padding: 5px;
-    width: 225px;
-}
-#juitterContainer .twittList span.time {
-    color: #900090;
-}
-#juitterContainer .twittList a {
-    color: #666666;
-}
-#juitterContainer .juitterAvatar {
-    background: none repeat scroll 0 0 #FF00FF;
-    border: 1px solid #D3EECA;
-    float: left;
-    height: 48px;
-    margin-right: 5px;
-    padding: 2px;
-    width: 48px;
-}
-#juitterContainer .jRM {
-    clear: both;
-    float: right;
-}
-#juitterContainer .extLink {
-}
-#juitterContainer .hashLink {
-}
-#picklejar {
-    background-color: #FFFFFF;
-    background-image: url("pickletweet/image/pickle.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-}
-.picklefont {
-    color: #000000;
-    font-family: Arial,Helvetica,sans-serif;
-    font-size: 12px;
-    line-height: 14px;
-    margin: 0;
-    padding: 0;
-}
-.picklefont a {
-    font-family: Arial,Helvetica,sans-serif;
-    font-size: 12px;
-    line-height: 12px;
-    margin: 0;
-    padding: 0;
-}
-
-
-																					/*///////// TWIT //////////////*/
-
-/*JUITTER PLUGIN CSS*/
-
-#juitterContainertwit
-{
-	width: 0px;
-	height: 0px;
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
-	left: 20px;
-	right: 20px;
-	padding: px;
-} /*Juitter container*/
-
-#juitterContainertwit .twittList
-{} /* UL that will contain the list of tweets */
-
-/* Bellow the list of tweets "<li>" */
-
-#juitterContainertwit .twittLI
-{
-	list-style:none;
-	border-bottom:dashed 3px #80c061;
-	padding:10px;clear:both;
-	height: px;
-	width: 500px;
-	color: #300000;
-} 
-#juitterContainertwit .twittList SPAN.time
-{
-	color:#900090;
-}
-#juitterContainertwit .twittList A
-{
-	color:#666	;
-} /*Links inside the tweets list */
-
-/* Bellow the CSS for the avatar image  */
-
-#juitterContainertwit .juitterAvatar
-{
-	float:left;
-	border:solid 1px #D3EECA;
-	background:#ff00ff;
-	margin-right:5px;
-	padding:2px;
-	width:48px;
-	height:48px;
-}
-
-#juitterContainertwit .jRM
-{
-	float:right;
-	clear:both;
-} /*read it on twitter link*/
-
-#juitterContainertwit .extLink
-{} /*CSS for the external links*/
-
-#juitterContainertwit .hashLink
-{} /*CSS for the hash links*/
-
-/*end of Juitter CSS*/
-
-
-#picklejar
-{
-	background-color: #fff;
-	background-image: url('pickletweet/image/pickle.jpg');
-	background-position: center center;
-	background-repeat: no-repeat;
-}
-.twitfont
-{
-	margin:0;
-	padding:0;
-	font-family:Arial, Helvetica, sans-serif;
-	line-height: 22px;
-	font-size:18px;
-	left top repeat-x;
-	color: #000;
-}
-.twitfont a
-{
-	margin:0;
-	padding:0;
-	font-family:Arial, Helvetica, sans-serif;
-	line-height: 22px;
-	font-size:18px;
-	left top repeat-x;
+	vertical-align: top;
 }
 
 
